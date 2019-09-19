@@ -1,0 +1,11 @@
+{
+  "name": "emojis-grabber",
+  "version": "1.0.0",
+  "description": "Grab all the emojis you want!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YagamiiRoot",
+  "license": "ISC"
+}
